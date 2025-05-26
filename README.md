@@ -37,13 +37,11 @@ Dokploy includes multiple features to make your life easier.
 
 ## 🚀 Getting Started
 
-To get started, run the following command on a VPS:
-
-Want to skip the installation process? [Try the Dokploy Cloud](https://app.dokploy.com).
+To install Dokploy with full mail service support, run the following commands in the root of your cloned repository:
 
 ```bash
-curl -sSL https://dokploy.com/install.sh | sh
-```
+chmod +x install.sh
+./install.sh
 
 For detailed documentation, visit [docs.dokploy.com](https://docs.dokploy.com).
 
