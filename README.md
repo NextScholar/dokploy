@@ -39,9 +39,11 @@ Dokploy includes multiple features to make your life easier.
 
 To install Dokploy with full mail service support, run the following commands in the root of your cloned repository:
 
+
 ```bash
 chmod +x install.sh
 ./install.sh```
+
 
 
 For detailed documentation, visit [docs.dokploy.com](https://docs.dokploy.com).
