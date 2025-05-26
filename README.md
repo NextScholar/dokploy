@@ -35,15 +35,13 @@ Dokploy includes multiple features to make your life easier.
 - **Multi Server**: Deploy and manage your applications remotely to external servers.
 - **Self-Hosted**: Self-host Dokploy on your VPS.
 
-## 🚀 Getting Started
+### 🚀 Getting Started
 
 To install Dokploy with full mail service support, run the following commands in the root of your cloned repository:
 
-
-```bash
+`bash
 chmod +x install.sh
-./install.sh```
-
+./install.sh`
 
 
 For detailed documentation, visit [docs.dokploy.com](https://docs.dokploy.com).
