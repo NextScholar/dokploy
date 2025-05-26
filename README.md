@@ -43,6 +43,7 @@ To install Dokploy with full mail service support, run the following commands in
 chmod +x install.sh
 ./install.sh```
 
+
 For detailed documentation, visit [docs.dokploy.com](https://docs.dokploy.com).
 
 ## Sponsors
