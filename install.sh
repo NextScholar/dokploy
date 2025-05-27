@@ -159,11 +159,6 @@ install_dokploy() {
         -p 80:80/tcp \
         -p 443:443/tcp \
         -p 443:443/udp \
-        -p 25:25/tcp \
-        -p 465:465/tcp \
-        -p 587:587/tcp \
-        -p 143:143/tcp \
-        -p 993:993/tcp \
         --network dokploy-network \
         traefik:v3.1.2
     
